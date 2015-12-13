@@ -1,0 +1,28 @@
+name: pa
+favicon: null
+layout_spectrum: 0.2613470337819308
+typography_spectrum: 0.5587002944666892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9294027003925294
+  lightness: 0.0378106061834842
+  saturation: 0.905828396556899
+  rhythmicContrast: 0.10971916769631207
+purpose: []
